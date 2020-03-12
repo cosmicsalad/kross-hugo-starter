@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "AFterlight | Hugo Portfolio Template"
+title = "Afterlight"
 
 # css plugins
 [[params.plugins.css]]
